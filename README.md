@@ -1,17 +1,20 @@
-O curso está dividido nas seguintes aulas:
+# Curso de introdução aos banco de dados e a Linguagem SQL - Vídeos
 
-Aula 1 - Introdução aos banco de dados relacionais
-Aula 2 - Arquitetura cliente-servidor e introdução ao MySQL
-Aula 3 - Efetuando consultas e manipulando estrutura com SQL
-Aula 4 - Manipulação de dados e criação de índices
-Aula 5 - Projetando bancos de dados relacionais
-Aula 6 - Um exemplo de modelagem
-Aula 7 - Tabelas relacionadas, union e operações aritméticas
-Aula 8 - Usando funções, agrupamentos e sub-consultas
-Aula 9 - Usando view's e introdução à Teoria da Normalização
-Aula 10 - Introdução a recursos avançados e gerenciamento de usuários
+## O curso está dividido nas seguintes aulas:
+
+- Aula 1 - Introdução aos banco de dados relacionais
+- Aula 2 - Arquitetura cliente-servidor e introdução ao MySQL
+- Aula 3 - Efetuando consultas e manipulando estrutura com SQL
+- Aula 4 - Manipulação de dados e criação de índices
+- Aula 5 - Projetando bancos de dados relacionais
+- Aula 6 - Um exemplo de modelagem
+- Aula 7 - Tabelas relacionadas, union e operações aritméticas
+- Aula 8 - Usando funções, agrupamentos e sub-consultas
+- Aula 9 - Usando view's e introdução à Teoria da Normalização
+- Aula 10 - Introdução a recursos avançados e gerenciamento de usuários
 
 
+## As aulas
 
 ### Aula 1 - Introdução aos banco de dados relacionais
 * [Capítulo 1 - Introdução ](https://www.youtube.com/watch?v=MLCWnwFSw2s)
